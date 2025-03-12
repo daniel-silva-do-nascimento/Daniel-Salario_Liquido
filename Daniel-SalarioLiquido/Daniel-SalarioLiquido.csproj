@@ -86,5 +86,23 @@
   <ItemGroup>
     <None Include="Resources\reolojo.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3643779_clock_hour_ticker_time_times_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8665297_dollar_sign_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8679250_percent_percentage_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\216118_calculator_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\754616_broom_costume_flight_halloween_scary_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9110796_x_icon.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

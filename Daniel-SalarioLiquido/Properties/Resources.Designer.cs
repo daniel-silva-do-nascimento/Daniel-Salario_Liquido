@@ -63,6 +63,66 @@ namespace Daniel_SalarioLiquido.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _216118_calculator_icon {
+            get {
+                object obj = ResourceManager.GetObject("216118_calculator_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _3643779_clock_hour_ticker_time_times_icon {
+            get {
+                object obj = ResourceManager.GetObject("3643779_clock_hour_ticker_time_times_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _754616_broom_costume_flight_halloween_scary_icon {
+            get {
+                object obj = ResourceManager.GetObject("754616_broom_costume_flight_halloween_scary_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _8665297_dollar_sign_icon {
+            get {
+                object obj = ResourceManager.GetObject("8665297_dollar_sign_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _8679250_percent_percentage_icon {
+            get {
+                object obj = ResourceManager.GetObject("8679250_percent_percentage_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _9110796_x_icon {
+            get {
+                object obj = ResourceManager.GetObject("9110796_x_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap reolojo {
             get {
                 object obj = ResourceManager.GetObject("reolojo", resourceCulture);
