@@ -46,7 +46,7 @@ namespace Daniel_SalarioLiquido
             label12.Text = "R$" + salarioLiquido.ToString();
             label13.Text = "R$" + totalDesconto.ToString();
 
-            //variavel = Match.Round(variavel,2);
+            //variavel = Math.Round(variavel,2); arredondar para 2 números após a vírgula
         }
 
         private void label2_Click(object sender, EventArgs e)

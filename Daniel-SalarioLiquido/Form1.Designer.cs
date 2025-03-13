@@ -121,12 +121,14 @@
             // button1
             // 
             this.button1.BackColor = System.Drawing.Color.Transparent;
+            this.button1.FlatAppearance.BorderSize = 5;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Image = global::Daniel_SalarioLiquido.Properties.Resources._216118_calculator_icon;
             this.button1.Location = new System.Drawing.Point(429, 324);
             this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(151, 83);
+            this.button1.Size = new System.Drawing.Size(162, 83);
             this.button1.TabIndex = 3;
             this.button1.Text = "Calcular";
             this.button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
@@ -137,6 +139,8 @@
             // 
             this.button3.BackColor = System.Drawing.Color.Transparent;
             this.button3.DialogResult = System.Windows.Forms.DialogResult.Cancel;
+            this.button3.FlatAppearance.BorderSize = 5;
+            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.Image = global::Daniel_SalarioLiquido.Properties.Resources._9110796_x_icon;
             this.button3.Location = new System.Drawing.Point(593, 576);
@@ -176,12 +180,14 @@
             // button2
             // 
             this.button2.BackColor = System.Drawing.Color.Transparent;
+            this.button2.FlatAppearance.BorderSize = 5;
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.Image = global::Daniel_SalarioLiquido.Properties.Resources._754616_broom_costume_flight_halloween_scary_icon;
             this.button2.Location = new System.Drawing.Point(233, 576);
             this.button2.Margin = new System.Windows.Forms.Padding(2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(140, 123);
+            this.button2.Size = new System.Drawing.Size(146, 123);
             this.button2.TabIndex = 4;
             this.button2.Text = "Limpar";
             this.button2.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
@@ -231,6 +237,7 @@
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(177, 37);
             this.label11.TabIndex = 18;
+            this.label11.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // label12
             // 
@@ -242,6 +249,7 @@
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(177, 37);
             this.label12.TabIndex = 19;
+            this.label12.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // label13
             // 
@@ -253,6 +261,7 @@
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(164, 37);
             this.label13.TabIndex = 20;
+            this.label13.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // textBox1
             // 
