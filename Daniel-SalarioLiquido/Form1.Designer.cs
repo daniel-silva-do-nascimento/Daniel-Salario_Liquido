@@ -139,7 +139,7 @@
             this.button3.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.Image = global::Daniel_SalarioLiquido.Properties.Resources._9110796_x_icon;
-            this.button3.Location = new System.Drawing.Point(593, 595);
+            this.button3.Location = new System.Drawing.Point(593, 576);
             this.button3.Margin = new System.Windows.Forms.Padding(2);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(140, 123);
@@ -154,23 +154,23 @@
             this.label7.Image = global::Daniel_SalarioLiquido.Properties.Resources._8679250_percent_percentage_icon;
             this.label7.Location = new System.Drawing.Point(151, 216);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(77, 64);
+            this.label7.Size = new System.Drawing.Size(77, 60);
             this.label7.TabIndex = 14;
             // 
             // label6
             // 
             this.label6.Image = global::Daniel_SalarioLiquido.Properties.Resources._8665297_dollar_sign_icon;
-            this.label6.Location = new System.Drawing.Point(151, 142);
+            this.label6.Location = new System.Drawing.Point(140, 153);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(77, 64);
+            this.label6.Size = new System.Drawing.Size(88, 63);
             this.label6.TabIndex = 13;
             // 
             // label5
             // 
             this.label5.Image = global::Daniel_SalarioLiquido.Properties.Resources._3643779_clock_hour_ticker_time_times_icon;
-            this.label5.Location = new System.Drawing.Point(151, 78);
+            this.label5.Location = new System.Drawing.Point(151, 90);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(77, 64);
+            this.label5.Size = new System.Drawing.Size(77, 63);
             this.label5.TabIndex = 12;
             // 
             // button2
@@ -178,7 +178,7 @@
             this.button2.BackColor = System.Drawing.Color.Transparent;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.Image = global::Daniel_SalarioLiquido.Properties.Resources._754616_broom_costume_flight_halloween_scary_icon;
-            this.button2.Location = new System.Drawing.Point(233, 595);
+            this.button2.Location = new System.Drawing.Point(233, 576);
             this.button2.Margin = new System.Windows.Forms.Padding(2);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(140, 123);
