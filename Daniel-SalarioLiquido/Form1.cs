@@ -59,7 +59,12 @@ namespace Daniel_SalarioLiquido
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
         {
             textBox1.Clear();
             textBox2.Clear();
@@ -67,11 +72,6 @@ namespace Daniel_SalarioLiquido
             label11.Text = " ";
             label12.Text = " ";
             label13.Text = " ";
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
         }
     }
 }
