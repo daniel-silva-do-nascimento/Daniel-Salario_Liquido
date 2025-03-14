@@ -25,10 +25,9 @@ namespace Daniel_SalarioLiquido
 
         private void button1_Click(object sender, EventArgs e)
         {
-            double valorHora, valorDesconto, totalDesconto, salarioLiquido, salarioBruto;
-            int horasTrabalho;
+            double valorHora, valorDesconto, totalDesconto, salarioLiquido, salarioBruto, horasTrabalho;
 
-            horasTrabalho = Convert.ToInt32(textBox3.Text);
+            horasTrabalho = Convert.ToDouble(textBox3.Text);
             valorHora = Convert.ToDouble(textBox1.Text);
             valorDesconto = Convert.ToDouble(textBox2.Text);
 
